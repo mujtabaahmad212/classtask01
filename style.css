@@ -1,0 +1,59 @@
+a{
+ 
+    margin-right: 20px;
+    justify-content: right;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgba(2, 0, 0,0.0);
+    margin-left: 60;
+    padding: 8px;
+    text-align:  right;
+    
+    
+}
+img{
+    margin-left: 30px;
+    width: 50px;
+    border-radius: 10px;
+    margin-right: 54%;
+   
+}
+body{
+    background-image: url(./imags/pexels-photo-3015400.jpeg);
+    background-size: 100%;
+    
+    
+
+}
+.text{
+    margin-top: 11%;
+    background-color: rgba(2, 2, 2, 0.5);
+    padding: 30px;
+    max-width: 500px;
+    color: white;
+    border-radius: 20px;
+}
+.btn1{
+    background-color: rgb(12, 206, 206);
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 0px;
+   
+   }
+   .btn2{
+   
+       background-color: rgba(2, 0, 0,0.1);
+       color: white;
+       border: 1px solid rgb(3, 252, 185);
+      
+       padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+     
+   }
+
